@@ -24,7 +24,7 @@ Criação de um formulário para cadastro de livros em uma biblioteca: Criar, Le
 
 <h1>🔗 Tecnologias Utilizadas</h1>
 
- [![My Skills](https://skillicons.dev/icons?i=java,css,spring,eclipse,github,git,postgres&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,github,git,postgres&perline=5)](https://skillicons.dev)
 
 
 <h1>🎲 Banco de Dados</h1>
