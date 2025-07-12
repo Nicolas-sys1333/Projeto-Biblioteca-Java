@@ -19,7 +19,10 @@ Criação de um formulário para cadastro de livros em uma biblioteca: Criar, Le
 
 - Java;
 - Springboot;
+- Eclipse
 - Postgres;
+- Github
+  
 
 
 <h1>🔗 Tecnologias Utilizadas</h1>
